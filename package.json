@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "cross-env": "^6.0.3",
-    "next": "^9.1.6",
+    "next": "^9.3.2",
     "next-redux-wrapper": "^4.0.1",
     "react": "^16.8.4",
     "react-dom": "^16.8.4",
